@@ -1,4 +1,6 @@
 Rencana aplikasi yang akan dibuat 
  - bahasa pemprograman c++
+    - aplikasi game 
+    - logika
  - aplikasi android 
  - aplikasi abang abang 

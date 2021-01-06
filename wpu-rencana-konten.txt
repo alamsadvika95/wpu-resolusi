@@ -1,0 +1,4 @@
+Rencana aplikasi yang akan dibuat 
+ - bahasa pemprograman c++
+ - aplikasi android 
+ - aplikasi abang abang 

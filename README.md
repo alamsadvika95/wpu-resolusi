@@ -1,2 +1,2 @@
 # wpu-resolusi
-Repository untuk menyimpan rencana masa depan
+Repository untuk menyimpan rencana masa depan mantap
